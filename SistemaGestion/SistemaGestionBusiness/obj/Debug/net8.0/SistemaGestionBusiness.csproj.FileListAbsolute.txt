@@ -1,0 +1,17 @@
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\bin\Debug\net8.0\SistemaGestionBusiness.deps.json
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\bin\Debug\net8.0\SistemaGestionBusiness.dll
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\bin\Debug\net8.0\SistemaGestionBusiness.pdb
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\bin\Debug\net8.0\SistemaGestionData.dll
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\bin\Debug\net8.0\SistemaGestionEntities.dll
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\bin\Debug\net8.0\SistemaGestionData.pdb
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\bin\Debug\net8.0\SistemaGestionEntities.pdb
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\obj\Debug\net8.0\SistemaGestionBusiness.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\obj\Debug\net8.0\SistemaGestionBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\obj\Debug\net8.0\SistemaGestionBusiness.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\obj\Debug\net8.0\SistemaGestionBusiness.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\obj\Debug\net8.0\SistemaGestionBusiness.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\obj\Debug\net8.0\SistemaG.30164F5D.Up2Date
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\obj\Debug\net8.0\SistemaGestionBusiness.dll
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\obj\Debug\net8.0\refint\SistemaGestionBusiness.dll
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\obj\Debug\net8.0\SistemaGestionBusiness.pdb
+C:\Users\franc\OneDrive\Escritorio\SistemaGestion\SistemaGestionBusiness\obj\Debug\net8.0\ref\SistemaGestionBusiness.dll

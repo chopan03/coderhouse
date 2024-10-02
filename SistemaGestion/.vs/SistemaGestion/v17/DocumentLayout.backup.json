@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BE951-9145-4A67-B26F-6BEAF127AB4F}|SistemaGestionUI\\SistemaGestionUI.csproj|c:\\users\\franc\\onedrive\\escritorio\\sistemagestion\\sistemagestionui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3BE951-9145-4A67-B26F-6BEAF127AB4F}|SistemaGestionUI\\SistemaGestionUI.csproj|solutionrelative:sistemagestionui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FED279-EA27-4F5A-8F18-587E9190C8FD}|SistemaGestionEntities\\SistemaGestionEntities.csproj|c:\\users\\franc\\onedrive\\escritorio\\sistemagestion\\sistemagestionentities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FED279-EA27-4F5A-8F18-587E9190C8FD}|SistemaGestionEntities\\SistemaGestionEntities.csproj|solutionrelative:sistemagestionentities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FED279-EA27-4F5A-8F18-587E9190C8FD}|SistemaGestionEntities\\SistemaGestionEntities.csproj|c:\\users\\franc\\onedrive\\escritorio\\sistemagestion\\sistemagestionentities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FED279-EA27-4F5A-8F18-587E9190C8FD}|SistemaGestionEntities\\SistemaGestionEntities.csproj|solutionrelative:sistemagestionentities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FED279-EA27-4F5A-8F18-587E9190C8FD}|SistemaGestionEntities\\SistemaGestionEntities.csproj|c:\\users\\franc\\onedrive\\escritorio\\sistemagestion\\sistemagestionentities\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FED279-EA27-4F5A-8F18-587E9190C8FD}|SistemaGestionEntities\\SistemaGestionEntities.csproj|solutionrelative:sistemagestionentities\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9EA414-12E6-44E0-80D8-665E8EF1EF8C}|SistemaGestionData\\SistemaGestionData.csproj|c:\\users\\franc\\onedrive\\escritorio\\sistemagestion\\sistemagestiondata\\productovendidodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9EA414-12E6-44E0-80D8-665E8EF1EF8C}|SistemaGestionData\\SistemaGestionData.csproj|solutionrelative:sistemagestiondata\\productovendidodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9EA414-12E6-44E0-80D8-665E8EF1EF8C}|SistemaGestionData\\SistemaGestionData.csproj|c:\\users\\franc\\onedrive\\escritorio\\sistemagestion\\sistemagestiondata\\ventadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9EA414-12E6-44E0-80D8-665E8EF1EF8C}|SistemaGestionData\\SistemaGestionData.csproj|solutionrelative:sistemagestiondata\\ventadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8098043E-47B4-4B29-AF8B-04CDEE14E255}|SistemaGestionBusiness\\SistemaGestionBusiness.csproj|c:\\users\\franc\\onedrive\\escritorio\\sistemagestion\\sistemagestionbusiness\\productobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8098043E-47B4-4B29-AF8B-04CDEE14E255}|SistemaGestionBusiness\\SistemaGestionBusiness.csproj|solutionrelative:sistemagestionbusiness\\productobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9EA414-12E6-44E0-80D8-665E8EF1EF8C}|SistemaGestionData\\SistemaGestionData.csproj|c:\\users\\franc\\onedrive\\escritorio\\sistemagestion\\sistemagestiondata\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9EA414-12E6-44E0-80D8-665E8EF1EF8C}|SistemaGestionData\\SistemaGestionData.csproj|solutionrelative:sistemagestiondata\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9EA414-12E6-44E0-80D8-665E8EF1EF8C}|SistemaGestionData\\SistemaGestionData.csproj|c:\\users\\franc\\onedrive\\escritorio\\sistemagestion\\sistemagestiondata\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9EA414-12E6-44E0-80D8-665E8EF1EF8C}|SistemaGestionData\\SistemaGestionData.csproj|solutionrelative:sistemagestiondata\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FED279-EA27-4F5A-8F18-587E9190C8FD}|SistemaGestionEntities\\SistemaGestionEntities.csproj|c:\\users\\franc\\onedrive\\escritorio\\sistemagestion\\sistemagestionentities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FED279-EA27-4F5A-8F18-587E9190C8FD}|SistemaGestionEntities\\SistemaGestionEntities.csproj|solutionrelative:sistemagestionentities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionBusiness\\ProductoBusiness.cs",
+              "RelativeDocumentMoniker": "SistemaGestionBusiness\\ProductoBusiness.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionBusiness\\ProductoBusiness.cs",
+              "RelativeToolTip": "SistemaGestionBusiness\\ProductoBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:40:15.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentaData.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionData\\VentaData.cs",
+              "RelativeDocumentMoniker": "SistemaGestionData\\VentaData.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionData\\VentaData.cs",
+              "RelativeToolTip": "SistemaGestionData\\VentaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:39:36.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoVendidoData.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionData\\ProductoVendidoData.cs",
+              "RelativeDocumentMoniker": "SistemaGestionData\\ProductoVendidoData.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionData\\ProductoVendidoData.cs",
+              "RelativeToolTip": "SistemaGestionData\\ProductoVendidoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:38:49.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoVendido.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionEntities\\ProductoVendido.cs",
+              "RelativeDocumentMoniker": "SistemaGestionEntities\\ProductoVendido.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionEntities\\ProductoVendido.cs",
+              "RelativeToolTip": "SistemaGestionEntities\\ProductoVendido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:37:00.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionEntities\\Producto.cs",
+              "RelativeDocumentMoniker": "SistemaGestionEntities\\Producto.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionEntities\\Producto.cs",
+              "RelativeToolTip": "SistemaGestionEntities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:36:29.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionEntities\\Venta.cs",
+              "RelativeDocumentMoniker": "SistemaGestionEntities\\Venta.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionEntities\\Venta.cs",
+              "RelativeToolTip": "SistemaGestionEntities\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:36:12.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionEntities\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaGestionEntities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionEntities\\Usuario.cs",
+              "RelativeToolTip": "SistemaGestionEntities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:33:00.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoData.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionData\\ProductoData.cs",
+              "RelativeDocumentMoniker": "SistemaGestionData\\ProductoData.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionData\\ProductoData.cs",
+              "RelativeToolTip": "SistemaGestionData\\ProductoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:30:05.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioData.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionData\\UsuarioData.cs",
+              "RelativeDocumentMoniker": "SistemaGestionData\\UsuarioData.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionData\\UsuarioData.cs",
+              "RelativeToolTip": "SistemaGestionData\\UsuarioData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:29:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionUI\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaGestionUI\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\SistemaGestion\\SistemaGestionUI\\Program.cs",
+              "RelativeToolTip": "SistemaGestionUI\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwG4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:24:42.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
